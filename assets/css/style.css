@@ -1,0 +1,42 @@
+
+
+body {
+    margin: 0;
+    background-color: #DFF6FF;
+} 
+header {
+    
+    padding-left: 2rem;
+    height: 2rem;
+    background-color: #06283D;
+    margin:0;
+    font-family: 'Prompt', sans-serif;
+    color:white;
+    font-weight: bold;
+    padding-top: calc(2rem/ 4);
+}
+ /*    display: inline;
+    background-color: #06283D;
+    color:white;
+    font-family: 'Prompt', sans-serif;
+    font-weight: bold;
+    margin:0;
+} */
+p {
+    margin: 0;
+    display: inline;
+    color: #47B5FF;
+} 
+
+#ubicacion {
+    padding-left: 47rem;
+}
+    
+footer {
+    padding-left: 2rem;
+    background-color: #1363DF;
+    color: white;
+    font-family: 'Prompt', sans-serif;
+    height: 1.6rem;
+
+}
